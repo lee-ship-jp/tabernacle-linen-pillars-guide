@@ -4,4 +4,6 @@ qa/
 qa_html.py
 qa-result.txt
 design-audit.md
+.wrangler/
+dist/
 .DS_Store
